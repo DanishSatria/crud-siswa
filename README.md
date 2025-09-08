@@ -1,4 +1,4 @@
-📚 CRUD Siswa dengan NestJS
+## 📚 CRUD Siswa dengan NestJS
 
 Proyek ini adalah implementasi CRUD (Create, Read, Update, Delete) sederhana untuk data Siswa menggunakan NestJS.
 Aplikasi ini digunakan untuk belajar dasar-dasar REST API dengan framework NestJS.
@@ -89,12 +89,26 @@ Response:
   }
 ]
 
-🖼️ Screenshot Hasil
+## 🚀 Hasil Uji Coba dengan Postman
 
-Letakkan screenshot hasil Postman di sini 👇
-(kamu bisa simpan gambar ke folder project, lalu tampilkan dengan markdown)
+### 🔹 POST - Tambah Data
+![POST](./screenshot/Screenshot%202025-09-08%20225816.png)
 
-![Hasil Testing Postman](./screenshot/postman.png)
+### 🔹 GET - Lihat Data
+![GET](./screenshot/Screenshot%202025-09-08%20225958.png)
+
+### 🔹 PUT - Update Data
+![PUT](./screenshot/Screenshot%202025-09-08%20230051.png)
+
+### 🔹 DELETE - Hapus Data
+![DELETE](./screenshot/Screenshot%202025-09-08%20230210.png)
+
+### 🔹 GET setelah Update/Hapus
+![GET2](./screenshot/Screenshot%202025-09-08%20230214.png)
+
+### 🔹 Semua Data
+![ALL](./screenshot/Screenshot%202025-09-08%20230313.png)
+
 
 👨‍💻 Author
 
