@@ -92,22 +92,22 @@ Response:
 ## 🚀 Hasil Uji Coba dengan Postman
 
 ### 🔹 POST - Tambah Data
-![POST](./screenshot/Screenshot%202025-09-08%20225816.png)
+![POST](Screenshot%202025-09-08%20225816.png)
 
 ### 🔹 GET - Lihat Data
-![GET](./screenshot/Screenshot%202025-09-08%20225958.png)
+![GET](Screenshot%202025-09-08%20225958.png)
 
 ### 🔹 PUT - Update Data
-![PUT](./screenshot/Screenshot%202025-09-08%20230051.png)
+![PUT](Screenshot%202025-09-08%20230051.png)
 
 ### 🔹 DELETE - Hapus Data
-![DELETE](./screenshot/Screenshot%202025-09-08%20230210.png)
+![DELETE](Screenshot%202025-09-08%20230210.png)
 
 ### 🔹 GET setelah Update/Hapus
-![GET2](./screenshot/Screenshot%202025-09-08%20230214.png)
+![GET2](Screenshot%202025-09-08%20230214.png)
 
 ### 🔹 Semua Data
-![ALL](./screenshot/Screenshot%202025-09-08%20230313.png)
+![ALL](Screenshot%202025-09-08%20230313.png)
 
 
 👨‍💻 Author
