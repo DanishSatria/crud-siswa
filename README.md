@@ -91,22 +91,16 @@ Response:
 
 ## 🚀 Hasil Uji Coba dengan Postman
 
-### 🔹 POST - Tambah Data
 ![POST](Screenshot%202025-09-08%20225816.png)
 
-### 🔹 GET - Lihat Data
 ![GET](Screenshot%202025-09-08%20225958.png)
 
-### 🔹 PUT - Update Data
 ![PUT](Screenshot%202025-09-08%20230051.png)
 
-### 🔹 DELETE - Hapus Data
 ![DELETE](Screenshot%202025-09-08%20230210.png)
 
-### 🔹 GET setelah Update/Hapus
 ![GET2](Screenshot%202025-09-08%20230214.png)
 
-### 🔹 Semua Data
 ![ALL](Screenshot%202025-09-08%20230313.png)
 
 
